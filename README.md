@@ -69,6 +69,7 @@ make
 
 Run by src/gui/QMPlay2
 
+https://askubuntu.com/questions/1035992/how-to-install-missing-dependencies-for-qmplay2-video-player-in-18-04-kubuntu/1036046
 
 
 ## YouTube
