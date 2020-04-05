@@ -67,6 +67,8 @@ cmake ..
 
 make
 
+Run by src/gui/QMPlay2
+
 
 
 ## YouTube
