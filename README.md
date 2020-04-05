@@ -58,6 +58,12 @@ $ sudo zypper in QMPlay2
 
 - Run the following command: `emerge --ask media-video/qmplay2`
 
+#### Compile on Ubuntu
+sudo apt-get install cmake pkg-config qtbase5-dev libva-dev \
+libavformat-dev libswscale-dev libass-dev libasound2-dev \
+libtag1-dev qttools5-dev checkinstall
+
+
 ## YouTube
 
 You can change the default audio and video quality of YouTube contents. Click on the "Settings" icon on the left of the search bar, change the order of audio and/or video quality priorities and apply changes.
