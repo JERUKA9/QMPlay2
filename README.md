@@ -63,6 +63,10 @@ sudo apt-get install cmake pkg-config qtbase5-dev libva-dev
 sudo apt-get install libavformat-dev libswscale-dev libass-dev libasound2-dev 
 sudo apt-get install libtag1-dev qttools5-dev checkinstall
 
+cmake ..
+
+make
+
 
 
 ## YouTube
