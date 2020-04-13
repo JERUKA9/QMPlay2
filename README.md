@@ -62,6 +62,7 @@ $ sudo zypper in QMPlay2
 sudo apt-get install cmake pkg-config qtbase5-dev libva-dev 
 sudo apt-get install libavformat-dev libswscale-dev libass-dev libasound2-dev 
 sudo apt-get install libtag1-dev qttools5-dev checkinstall
+sudo apt-get install libqt5x11extras5-dev
 
 cmake ..
 
